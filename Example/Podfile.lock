@@ -1,0 +1,16 @@
+PODS:
+  - OctopusSDK (1.5.9.8)
+
+DEPENDENCIES:
+  - OctopusSDK
+
+SPEC REPOS:
+  trunk:
+    - OctopusSDK
+
+SPEC CHECKSUMS:
+  OctopusSDK: 73a38e785878b95b7b5d7e16373bcd04dc22a248
+
+PODFILE CHECKSUM: ec41b9cc82e42bfaf9d77a7cc12c6071e535f9a8
+
+COCOAPODS: 1.12.1
